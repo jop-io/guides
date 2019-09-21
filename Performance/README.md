@@ -1,1 +1,2 @@
 - [Speeding up the web with the Save-Data header](https://nooshu.github.io/blog/2019/09/01/speeding-up-the-web-with-save-data-header/)
+- [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/)
